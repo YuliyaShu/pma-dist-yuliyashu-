@@ -1,0 +1,51 @@
+{
+  
+  "collecting": {
+    "url": "./assets/images/hobby-collecting.jpg",
+    "name": "collecting",
+    "translate": "собирание"
+  },
+  
+  "cooking": {
+    "url": "./assets/images/hobby-cooking.jpg",
+    "name": "cooking",
+    "translate": "готовка"
+  },
+
+  "dancing": {
+    "url": "./assets/images/hobby-dancing.jpg",
+    "name": "dancing",
+    "translate": "танцы"
+  },
+
+  "knitting": {
+    "url": "./assets/images/hobby-knitting.jpg",
+    "name": "knitting",
+    "translate": "вязание"
+  },
+
+  "photo": {
+    "url": "./assets/images/hobby-photo.jpg",
+    "name": "photo",
+    "translate": "фотография"
+  },
+
+  "plants": {
+    "url": "./assets/images/hobby-plants.jpg",
+    "name": "plants",
+    "translate": "растения"
+  },
+
+  "reading": {
+    "url": "./assets/images/hobby-reading.jpg",
+    "name": "reading",
+    "translate": "чтение"
+  },
+
+  "sewing": {
+    "url": "./assets/images/hobby-sewing.jpg",
+    "name": "sewing",
+    "translate": "шитье"
+  }
+
+}

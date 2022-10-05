@@ -1,0 +1,51 @@
+{
+  
+  "loneliness": {
+    "url": "./assets/images/emotions-loneliness.jpg",
+    "name": "loneliness",
+    "translate": "одиночество"
+  },
+
+  "hesitance": {
+    "url": "./assets/images/emotions-hesitance.jpg",
+    "name": "hesitance",
+    "translate": "нерешительность"
+  },
+
+  "embarrassment": {
+    "url": "./assets/images/emotions-embarrassment.jpg",
+    "name": "embarrassment",
+    "translate": "смущение"
+  },
+
+  "fear": {
+    "url": "./assets/images/emotions-fear.jpg",
+    "name": "fear",
+    "translate": "страх"
+  },
+
+  "happiness": {
+    "url": "./assets/images/emotions-happiness.jpg",
+    "name": "happiness",
+    "translate": "счастье"
+  },
+
+  "love": {
+    "url": "./assets/images/emotions-love.jpg",
+    "name": "love",
+    "translate": "любовь"
+  },
+
+  "sadness": {
+    "url": "./assets/images/emotions-sadness.jpg",
+    "name": "sadness",
+    "translate": "грусть"
+  },
+
+  "surprise": {
+    "url": "./assets/images/emotions-surprise.jpg",
+    "name": "surprise",
+    "translate": "удивление"
+  }
+
+}

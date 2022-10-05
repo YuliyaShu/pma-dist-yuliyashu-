@@ -1,0 +1,17 @@
+export const addElemToParentError = 'Incorrect action parameter in addElemToParent()';
+export const start = 'START';
+export const repeat = 'REPEAT';
+export const play = 'Play';
+export const train = 'Train';
+export const yes = 'yes';
+export const correct = 'Correct';
+export const mistake = 'Mistake';
+export const textWhenSuccess = 'You can do it better!';
+export const textWhenFailed = 'You have finished! Wonderful!';
+export const messageToConfirmClear = 'Do you definitely want to clear the statistics?';
+export const categoryMain = 'english kid';
+export const categoryTrain = 'train mistakes';
+export const categoryNothingToTrain = 'there is no play mode for mistaken words';
+export const footerInspired = 'Inspired by storyset';
+export const footerAuthor = 'YuliyaShu june 2022';
+export const footerSchool = 'RSSchool';

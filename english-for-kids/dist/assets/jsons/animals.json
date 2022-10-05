@@ -1,0 +1,51 @@
+{
+  
+  "bird": {
+    "url": "./assets/images/animals-bird.jpg",
+    "name": "bird",
+    "translate": "птица"
+  },
+
+  "cat": {
+    "url": "./assets/images/animals-cat.jpg",
+    "name": "cat",
+    "translate": "кот"
+  },
+
+  "dog": {
+    "url": "./assets/images/animals-dog.jpg",
+    "name": "dog",
+    "translate": "собака"
+  },
+
+  "rabbit": {
+    "url": "./assets/images/animals-rabbit.jpg",
+    "name": "rabbit",
+    "translate": "кролик"
+  },
+
+  "horse": {
+    "url": "./assets/images/animals-horse.jpg",
+    "name": "horse",
+    "translate": "конь"
+  },
+
+  "kangaroo": {
+    "url": "./assets/images/animals-kangaroo.jpg",
+    "name": "kangaroo",
+    "translate": "кенгуру"
+  },
+
+  "monkey": {
+    "url": "./assets/images/animals-monkey.jpg",
+    "name": "monkey",
+    "translate": "обезьяна"
+  },
+
+  "pig": {
+    "url": "./assets/images/animals-pig.jpg",
+    "name": "pig",
+    "translate": "свинья"
+  }
+
+}

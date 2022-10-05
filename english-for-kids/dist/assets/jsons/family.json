@@ -1,0 +1,51 @@
+{
+  
+  "children": {
+    "url": "./assets/images/family-children.jpg",
+    "name": "children",
+    "translate": "дети"
+  },
+
+  "daughter": {
+    "url": "./assets/images/family-daughter.jpg",
+    "name": "daughter",
+    "translate": "дочка"
+  },
+
+  "father": {
+    "url": "./assets/images/family-father.jpg",
+    "name": "father",
+    "translate": "папа"
+  },
+
+  "grandma": {
+    "url": "./assets/images/family-grandma.jpg",
+    "name": "grandma",
+    "translate": "бабушка"
+  },
+
+  "grandpa": {
+    "url": "./assets/images/family-grandpa.jpg",
+    "name": "grandpa",
+    "translate": "дедушка"
+  },
+
+  "mother": {
+    "url": "./assets/images/family-mother.jpg",
+    "name": "mother",
+    "translate": "мама"
+  },
+
+  "parents": {
+    "url": "./assets/images/family-parents.jpg",
+    "name": "parents",
+    "translate": "родители"
+  },
+
+  "sister": {
+    "url": "./assets/images/family-sister.jpg",
+    "name": "sister",
+    "translate": "сестра"
+  }
+
+}

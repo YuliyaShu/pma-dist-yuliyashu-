@@ -1,0 +1,51 @@
+{
+  
+  "acorn": {
+    "url": "./assets/images/plants-acorn.jpg",
+    "name": "acorn",
+    "translate": "желудь"
+  },
+  
+  "bamboo": {
+    "url": "./assets/images/plants-bamboo.jpg",
+    "name": "bamboo",
+    "translate": "бамбук"
+  },
+
+  "cactus": {
+    "url": "./assets/images/plants-cactus.jpg",
+    "name": "cactus",
+    "translate": "кактус"
+  },
+
+  "flowers": {
+    "url": "./assets/images/plants-flowers.jpg",
+    "name": "flowers",
+    "translate": "цветы"
+  },
+
+  "mushrooms": {
+    "url": "./assets/images/plants-mushrooms.jpg",
+    "name": "mushrooms",
+    "translate": "грибы"
+  },
+
+  "palm": {
+    "url": "./assets/images/plants-palm.jpg",
+    "name": "palm",
+    "translate": "пальма"
+  },
+
+  "rose": {
+    "url": "./assets/images/plants-rose.jpg",
+    "name": "rose",
+    "translate": "роза"
+  },
+
+  "tree": {
+    "url": "./assets/images/plants-tree.jpg",
+    "name": "tree",
+    "translate": "дерево"
+  }
+
+}

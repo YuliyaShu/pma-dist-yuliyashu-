@@ -1,0 +1,51 @@
+{
+  
+  "angel": {
+    "url": "./assets/images/christmas-angel.jpg",
+    "name": "angel",
+    "translate": "ангел"
+  },
+
+  "cookies": {
+    "url": "./assets/images/christmas-cookies.jpg",
+    "name": "cookies",
+    "translate": "печенье"
+  },
+
+  "drinks": {
+    "url": "./assets/images/christmas-drinks.jpg",
+    "name": "drinks",
+    "translate": "напитки"
+  },
+
+  "nutcracker": {
+    "url": "./assets/images/christmas-nutcracker.jpg",
+    "name": "nutcracker",
+    "translate": "щелкунчик"
+  },
+
+  "santa": {
+    "url": "./assets/images/christmas-santa.jpg",
+    "name": "santa",
+    "translate": "санта"
+  },
+
+  "snowball": {
+    "url": "./assets/images/christmas-snowball.jpg",
+    "name": "snowball",
+    "translate": "снежный шар"
+  },
+
+  "snowman": {
+    "url": "./assets/images/christmas-snowman.jpg",
+    "name": "snowman",
+    "translate": "снеговик"
+  },
+
+  "tree": {
+    "url": "./assets/images/christmas-tree.jpg",
+    "name": "tree",
+    "translate": "дерево"
+  }
+
+}

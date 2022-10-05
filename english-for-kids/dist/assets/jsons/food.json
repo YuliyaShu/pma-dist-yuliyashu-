@@ -1,0 +1,50 @@
+{
+  "bread": {
+    "url": "./assets/images/food-bread.jpg",
+    "name": "bread",
+    "translate": "хлеб"
+  },
+  
+  "cake": {
+    "url": "./assets/images/food-cake.jpg",
+    "name": "cake",
+    "translate": "пирог"
+  },
+
+  "cookies": {
+    "url": "./assets/images/food-cookies.jpg",
+    "name": "cookies",
+    "translate": "печенье"
+  },
+
+  "honey": {
+    "url": "./assets/images/food-honey.jpg",
+    "name": "honey",
+    "translate": "мёд"
+  },
+
+  "pasta": {
+    "url": "./assets/images/food-pasta.jpg",
+    "name": "pasta",
+    "translate": "паста"
+  },
+
+  "peach": {
+    "url": "./assets/images/food-peach.jpg",
+    "name": "peach",
+    "translate": "персик"
+  },
+
+  "pineapple": {
+    "url": "./assets/images/food-pineapple.jpg",
+    "name": "pineapple",
+    "translate": "ананас"
+  },
+
+  "pizza": {
+    "url": "./assets/images/food-pizza.jpg",
+    "name": "pizza",
+    "translate": "пицца"
+  }
+
+}

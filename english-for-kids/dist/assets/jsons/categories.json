@@ -1,0 +1,50 @@
+{
+  "animals": {
+    "url": "./assets/images/animals.jpg",
+    "name": "animals",
+    "translate": "животные"
+  },
+
+  "christmas": {
+    "url": "./assets/images/christmas.jpg",
+    "name": "christmas",
+    "translate": "рождество"
+  },
+
+  "emotions": {
+    "url": "./assets/images/emotions.jpg",
+    "name": "emotions",
+    "translate": "эмоции"
+  },
+
+  "family": {
+    "url": "./assets/images/family.jpg",
+    "name": "family",
+    "translate": "семья"
+  },
+
+  "food": {
+    "url": "./assets/images/food.jpg",
+    "name": "food",
+    "translate": "еда"
+  },
+
+  "hobby": {
+    "url": "./assets/images/hobby.jpg",
+    "name": "hobby",
+    "translate": "хобби"
+  },
+
+  "plants": {
+    "url": "./assets/images/plants.jpg",
+    "name": "plants",
+    "translate": "растения"
+  },
+
+  "sport": {
+    "url": "./assets/images/sport.jpg",
+    "name": "sport",
+    "translate": "спорт"
+  }
+
+}

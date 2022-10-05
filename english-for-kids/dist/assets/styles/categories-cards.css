@@ -1,0 +1,56 @@
+.category, 
+.card-train,
+.card-play {
+  display: flex;
+  width: 100%;
+  height: auto;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.category__h1, 
+.card-train__h1 {
+  font-family: 'Montserrat';
+  font-size: 2rem;
+  color: var(--green-color);
+}
+
+.category__wrapper, 
+.card-train__wrapper,
+.card-play__wrapper {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+}
+
+.category__item, 
+.card-train__item,
+.card-play__item,
+.card-play__item-inactive {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  justify-content: center;
+  height: auto;
+  padding: 8%;
+  border-radius: 10%;
+  align-items: center;
+}
+
+.category__item:hover,
+.card-train__item:hover,
+.card-play__item:hover { 
+  transform: translateY(-5px) scale(1.005) translateZ(0);
+  box-shadow: 0px 0px 17px var(--green-color);
+  cursor: pointer;
+}
+
+.category__item-name,
+.card-train__item-name {
+  display: block;
+  width: 100%;
+  font-family: 'Montserrat';
+  color: var(--dark-color);
+  margin-top: 2%;
+  text-align: center;
+}

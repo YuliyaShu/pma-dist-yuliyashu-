@@ -1,0 +1,21 @@
+.main__finish {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.finish__name,
+.finish__result {
+  margin-top: 5%;
+  font-family: 'Montserrat';
+  font-size: 2rem;
+  color: var(--green-color);
+}
+
+.finish__image {
+  width: 70%;
+}
+

@@ -1,0 +1,131 @@
+html.open {
+  overflow-y: hidden;
+}
+
+.overlay {
+	background-color: var(--white-color);
+	margin: 0;
+	overflow-x: hidden;
+	width: 100%;
+	height: 100%;
+	z-index: 10;
+	opacity: 90%;
+	position: absolute;
+	transition: 0.5s;
+}
+
+.header__menu.open .line__hr-1 {
+  transform: rotate(90deg) translate(19px, 11px);
+  z-index: 11;
+  transition: 0.5s;
+}
+
+.header__menu.open .line__hr-2 {
+  transform: rotate(90deg) translate(5px, 0px);
+  z-index: 11;
+  transition: 0.5s;
+}
+
+.header__menu.open .line__hr-3 {
+  transform: rotate(90deg) translate(-10px, -11px);
+  z-index: 11;
+  transition: 0.5s;
+}
+
+.header__burger {
+  display: flex;
+  position: absolute;
+  top: 0px;
+  left: -320px;
+  transition: all 1s ease-in-out;
+  flex-direction: column;
+  width: 320px;
+  height: 100vh;
+  background-color: var(--white-color);
+  z-index: 12;
+  overflow-y: auto;
+}
+
+.header__burger.open {
+  z-index: 13;
+  left: 0px;
+}
+
+.burger__logo {
+  margin-top: 20px;
+}
+
+.burger__logo-name {
+  font-family: 'Montserrat';
+  font-size: 1.5rem;
+  color: var(--green-color);
+  text-decoration: none;
+  padding-left: 50px;
+}
+
+.burger__logo-name:hover {
+  color: var(--orange-color);
+  cursor: pointer;
+  transition-duration: 0.3s;
+}
+
+li {
+  list-style-type: none;
+}
+
+.burger__menu {
+  margin-top: 45px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.burger__menu.open {
+  z-index: 9;
+}
+
+.burger__menu-item {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-evenly;
+  margin-bottom: 10px;
+}
+
+.burger__menu-item:hover {
+  transform: translateY(-5px) scale(1.005) translateZ(0);
+    box-shadow: 0px 0px 17px var(--green-color);
+    cursor: pointer;
+}
+
+.burger__menu-item-img {
+  width: 30%;
+  height: auto;
+}
+
+.burger__menu-item-name {
+  font-family: 'Montserrat';
+  font-size: 1rem;
+  color: var(--green-color);
+}
+
+.burger__menu-link {
+  font-family: 'Arial';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 160%;
+  color: var(--color-dark-s);
+  text-decoration: none;
+}
+
+.nav-burger-menu-link-1 {
+  border-bottom: var(--color-primary) solid 3px;
+}
+
+.burger__menu-link.open:hover, 
+.burger__menu-link.open:focus, 
+.burger__menu-link.open:active {
+  color: var(--color-light-xl);
+  transition: 0.5s;
+}

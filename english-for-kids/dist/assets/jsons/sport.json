@@ -1,0 +1,51 @@
+{
+  
+  "climbing": {
+    "url": "./assets/images/sport-climbing.jpg",
+    "name": "climbing",
+    "translate": "альпинизм"
+  },
+  
+  "cycling": {
+    "url": "./assets/images/sport-cycling.jpg",
+    "name": "cycling",
+    "translate": "велосипед"
+  },
+
+  "fitness": {
+    "url": "./assets/images/sport-fitness.jpg",
+    "name": "fitness",
+    "translate": "фитнес"
+  },
+
+  "gymnastics": {
+    "url": "./assets/images/sport-gymnastics.jpg",
+    "name": "gymnastics",
+    "translate": "гимнастика"
+  },
+
+  "judo": {
+    "url": "./assets/images/sport-judo.jpg",
+    "name": "judo",
+    "translate": "дзюдо"
+  },
+
+  "motorcycling": {
+    "url": "./assets/images/sport-motorcycling.jpg",
+    "name": "motorcycling",
+    "translate": "мотоспорт"
+  },
+
+  "running": {
+    "url": "./assets/images/sport-running.jpg",
+    "name": "running",
+    "translate": "бег"
+  },
+
+  "skating": {
+    "url": "./assets/images/sport-skating.jpg",
+    "name": "skating",
+    "translate": "коньки"
+  }
+
+}

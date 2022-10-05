@@ -1,0 +1,48 @@
+@media (max-width: 1280px) {
+
+  .stat__column-name,
+  .stat__data {
+  font-size: 1vw;
+  }
+  
+}
+
+@media (max-width: 768px) {
+
+  .page__wrapper {
+    margin: 5% auto;
+    padding: 0 5%;
+  }
+
+  .category__wrapper,
+  .card-train__wrapper,
+  .card-play__wrapper {
+    grid-template-columns: repeat(3, 1fr);
+  }
+
+  .card-play__panel {
+    grid-template-columns: repeat(1, 1fr);
+    margin-top: 15px;
+  }
+
+  .card-play__begin {
+    width: 100px;
+    height: 50px;
+  }
+
+}
+
+@media (max-width: 450px) {
+
+  .page__wrapper {
+    margin: 10% auto;
+    padding: 0 10%;
+  }
+
+  .category__wrapper,
+  .card-train__wrapper,
+  .card-play__wrapper {
+    grid-template-columns: repeat(1, 1fr);
+  }
+
+}
