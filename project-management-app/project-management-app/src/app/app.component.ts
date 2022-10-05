@@ -71,6 +71,7 @@ export class AppComponent {
   }
 
   addInfoAboutError(text: string) {
-    alert(text);
+
+    console.log(text);
   }
 }

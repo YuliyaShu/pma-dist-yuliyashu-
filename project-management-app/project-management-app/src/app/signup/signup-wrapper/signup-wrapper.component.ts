@@ -67,6 +67,6 @@ export class SignupWrapperComponent implements OnInit {
   }
 
   addInfoAboutError(text: string) {
-    alert(text);
+    console.log(text);
   }
 }

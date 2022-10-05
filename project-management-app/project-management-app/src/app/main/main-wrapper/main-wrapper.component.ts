@@ -94,6 +94,6 @@ export class MainWrapperComponent implements OnInit {
   }
 
   addInfoAboutError(text: string) {
-    alert(text);
+    console.log(text);
   }
 }
